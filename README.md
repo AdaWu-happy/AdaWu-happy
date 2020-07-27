@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋,I'm AdaWu
+
+一枚2年开发经验的web前端。
 
 <!--
 **AdaWu-happy/AdaWu-happy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AdaWu-happy)](https://github.com/AdaWu-happy/github-readme-stats)
