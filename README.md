@@ -1,6 +1,6 @@
 ### Hi there 👋,I'm AdaWu
 
-一枚2年开发经验的web前端。
+一枚简单快乐、普通的web前端。
 
 <!--
 **AdaWu-happy/AdaWu-happy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
